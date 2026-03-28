@@ -44,14 +44,3 @@
 
 ---
 
-### 🐍 Contribution Snake
-<p align="center">
-  ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-</p>
-
----
-
-💡 **Notes:**  
-- `YOUR_USERNAME` এর জায়গায় তোমার GitHub username বসাও  
-- `YOUR_LINK` এর জায়গায় LinkedIn / Twitter link বসাও  
-- Contribution snake চালাতে হলে GitHub Action setup করতে হবে (পরে চাইলে আমি দেখাতে পারি)
