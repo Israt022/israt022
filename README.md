@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img width="1000" height="200" alt="Your paragraph text (1)" src="https://github.com/user-attachments/assets/8abd6da9-afb2-48a3-bdc3-b2acbc69094a" />
+  <img width="1000" height="200" alt="Your paragraph text (2)" src="https://github.com/user-attachments/assets/db4c39e6-0797-4582-8c5b-4aac942176ff" />
 </p>
 
 <!-- Animated Title -->
