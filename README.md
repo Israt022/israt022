@@ -69,25 +69,21 @@ I’m a passionate web developer exploring modern web technologies and building 
 ---
 
 ## 📊 GitHub Stats & Activity
-<p align="center">
+<div style="display: flex; justify-content: center;">
   <!-- Contribution / Overall Stats -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Israt022&show_icons=true&theme=tokyonight" width="48%" /> -->
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israt022&theme=tokyonight" width="100%" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israt022&theme=tokyonight" width="70%" />
+</div>
 
-<p align="center">
-  <!-- Most Used Languages -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Israt022&layout=compact&theme=tokyonight" width="48%" /> -->
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israt022&theme=tokyo-night"  />
-</p>
+<div style="display: flex; justify-content: center;margin-top:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israt022&theme=tokyo-night" width="70%" />
+</div>
 
 
 ---
-
+---
 
 
 
