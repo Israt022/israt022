@@ -47,7 +47,7 @@ I’m a passionate web developer exploring modern web technologies and building 
 ---
 
 ## 💻 Skills
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <a href="https://www.cprogramming.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
   </a>
@@ -76,7 +76,7 @@ I’m a passionate web developer exploring modern web technologies and building 
 ---
 
 ## 📱 Social Links
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/mst-israt-jahan-era/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
   </a>
