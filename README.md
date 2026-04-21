@@ -74,11 +74,11 @@ I’m a passionate web developer exploring modern web technologies and building 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=Israt022&show_icons=true&theme=tokyonight" width="48%" /> -->
   
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israt022&theme=tokyonight" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israt022&theme=tokyonight" width="100%" />
 </div>
 
 <div style="display: flex; justify-content: center;margin-top:20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israt022&theme=tokyo-night" width="70%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israt022&theme=tokyo-night" width="100%" />
 </div>
 
 
