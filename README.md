@@ -52,7 +52,7 @@ I’m a passionate web developer exploring modern web technologies and building 
 ---
 
 ## 📱 Social Links
-<p align="center flex gap-5">
+<p align="center">
   <a href="https://www.linkedin.com/in/mst-israt-jahan-era/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" height="30" />
   </a>
@@ -77,8 +77,8 @@ I’m a passionate web developer exploring modern web technologies and building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israt022&theme=tokyonight" width="70%" />
 </div>
 
-<div style="display: flex; justify-content: center;margin-top:20px;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israt022&theme=tokyo-night" width="100%" />
+<div align="center" style="display: flex; justify-content: center;margin-top:20px;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israt022&theme=tokyo-night" width="70%" />
 </div>
 
 
