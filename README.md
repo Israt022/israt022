@@ -45,32 +45,73 @@ I’m a passionate web developer exploring modern web technologies and building 
 </table>
 
 ---
-
 ## 💻 Skills
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
-  </a>
 
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
-  </a>
+<div align="center">
 
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
-  </a>
-
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
-  </a>
-
+<table>
+<tr>
+<td align="center" width="96">
   <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" />
+    <img src="https://skillicons.dev/icons?i=html" width="48" />
   </a>
+  <br>HTML
+</td>
 
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" />
+<td align="center" width="96">
+  <a href="https://www.w3.org/Style/CSS/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" width="48" />
   </a>
+  <br>CSS
+</td>
+
+<td align="center" width="96">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js" width="48" />
+  </a>
+  <br>JavaScript
+</td>
+
+<td align="center" width="96">
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" width="48" />
+  </a>
+  <br>Tailwind
+</td>
+
+</tr>
+
+<tr>
+<td align="center" width="96">
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" width="48" />
+  </a>
+  <br>React
+</td>
+<td align="center" width="96">
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nextjs" width="48" />
+  </a>
+  <br>Next.js
+</td>
+
+<td align="center" width="96">
+  <a href="https://expressjs.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=express" width="48" />
+  </a>
+  <br>Express.js
+</td>
+
+<td align="center" width="96">
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" width="48" />
+  </a>
+  <br>MongoDB
+</td>
+
+</tr>
+</table>
+
 </div>
 
 ---
