@@ -144,9 +144,9 @@ I’m a passionate web developer exploring modern web technologies and building 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Israt022&theme=tokyonight" width="70%" />
 </div>
 <!-- Stake updated  -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=Israt022&theme=tokyonight" width="70%" />
-</div>
+</div> -->
 
 <div align="center" style="display: flex; justify-content: center;margin-top:20px;">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Israt022&theme=tokyo-night" width="70%" />
@@ -154,7 +154,7 @@ I’m a passionate web developer exploring modern web technologies and building 
 
 
 ---
----
+
 
 
 
