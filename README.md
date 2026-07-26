@@ -15,7 +15,9 @@
 <!-- Name & Designation -->
 <h2 align="center">Israt Jahan</h2>
 <p align="center">MERN Stack Developer | Learning Full Stack Development</p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Israt022&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 ---
 
 ## <p align="center"> About Me <p>
