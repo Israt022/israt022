@@ -14,7 +14,7 @@
 
 <!-- Name & Designation -->
 <h2 align="center">Israt Jahan</h2>
-<p align="center">MERN Stack Developer | Learning Full Stack Development</p>
+<p align="center">MERN Stack Developer | Full-Stack Web Developer</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Israt022&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
@@ -24,8 +24,8 @@
 
 ## <p align="center"> About Me <p>
 <p align="center">
-I’m a passionate web developer exploring modern web technologies and building useful projects. I love learning and experimenting with new tools and frameworks.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</p> 
+I’m a MERN Stack Developer passionate about building modern, responsive, and user-friendly web applications. I enjoy working with React, Next.js, Node.js, Express.js, MongoDB, and TypeScript while continuously learning and improving my skills.
+</p>
 
 ---
 
@@ -35,9 +35,11 @@ I’m a passionate web developer exploring modern web technologies and building 
 <tr>
 <td width="60%">
 
-- Building projects with **React**, using features like **routing, tabs, Toastify** for notifications  
-- Designing UI with **DaisyUI** and **TailwindCSS**  
-- Practicing **component structuring** and **responsive design**
+- Building modern and responsive web applications with **React, Next.js, TypeScript, and TailwindCSS**
+- Developing full-stack applications using **Node.js, Express.js, MongoDB, and REST APIs**
+- Working on real-world projects and improving my **MERN Stack and Full-Stack Development** skills
+- Focusing on **clean UI, responsive design, reusable components, and user-friendly experiences**
+- Continuously learning new technologies and improving my **problem-solving and development skills**
 
 </td>
 
@@ -120,20 +122,21 @@ I’m a passionate web developer exploring modern web technologies and building 
 
 ---
 
-## 📱 Social Links
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+## Social Links
+
+<p align="center">
   <a href="https://www.linkedin.com/in/mst-israt-jahan-era/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30" />
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
-
-  <a href="https://twitter.com/@isratjahan14004" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/isratjahan14004" target="_blank">
+    <img src="https://cdn.simpleicons.org/x/ffffff" width="40" />
   </a>
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Israt022" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="30" />
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
-</div>
+</p>
 
 ---
 
