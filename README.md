@@ -6,8 +6,12 @@
 </p>
 
 <!-- Animated Title -->
+<!-- Animated Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Israt+Jahan" alt="Typing Title">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=A78BFA&center=true&vCenter=true&width=800&lines=Hi+There!+I'm+Israt+Jahan+Era;MERN+Stack+Developer;Full-Stack+Web+Developer;Building+Modern+Web+Applications"
+    alt="Typing Title"
+  />
 </h1>
 
 <div align="center">
