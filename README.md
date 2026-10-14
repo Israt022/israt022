@@ -1,7 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img width="2056" height="765" alt="Github Cover" src="https://github.com/user-attachments/assets/56968e9a-580c-4dc7-937b-43e876be0807" />
-
+  <img width="2056" height="765" alt="Github Cover" src="https://github.com/user-attachments/assets/a1973af1-92c7-4cc6-af9e-1cec816f9cf5" />
   <!-- <img width="1000" height="200" alt="Your paragraph text (2)" src="https://github.com/user-attachments/assets/db4c39e6-0797-4582-8c5b-4aac942176ff" /> -->
 </p>
 
